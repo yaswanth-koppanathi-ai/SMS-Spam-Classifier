@@ -252,8 +252,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📊 Project Stats
 
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/sms-spam-classifier)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/sms-spam-classifier)
-![GitHub stars](https://img.shields.io/github/stars/yourusername/sms-spam-classifier)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/sms-spam-classifier)
-![GitHub license](https://img.shields.io/github/license/yourusername/sms-spam-classifier)
+![GitHub last commit](https://img.shields.io/github/last-commit/yaswanth-koppanathi-ai/SMS-Spam-Classifier)
+![GitHub issues](https://img.shields.io/github/issues/yaswanth-koppanathi-ai/SMS-Spam-Classifier)
+![GitHub stars](https://img.shields.io/github/stars/yaswanth-koppanathi-ai/SMS-Spam-Classifier)
+![GitHub forks](https://img.shields.io/github/forks/yaswanth-koppanathi-ai/SMS-Spam-Classifier)
+![GitHub license](https://img.shields.io/github/yaswanth-koppanathi-ai/SMS-Spam-Classifier)
