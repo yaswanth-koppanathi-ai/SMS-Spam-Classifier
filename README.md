@@ -50,18 +50,11 @@ This project implements a robust SMS spam detection system that can automaticall
 ```
 sms-spam-classifier/
 │
-├── spam_classifier.py          # Main Python script
+├── spam.csv                    # Dataset
 ├── SMS_Spam_Classifier.ipynb   # Jupyter notebook version
 ├── requirements.txt            # Project dependencies
 ├── README.md                   # Project documentation
-├── data/
-│   └── spam.csv               # SMS Spam Collection dataset
-├── images/
-│   ├── confusion_matrix.png   # Model evaluation plots
-│   ├── data_distribution.png  # Dataset visualization
-│   └── feature_importance.png # Important features chart
-└── results/
-    └── classification_report.txt # Detailed results
+
 ```
 
 ## 🚀 Quick Start
