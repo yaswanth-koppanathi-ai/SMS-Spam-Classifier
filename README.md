@@ -242,9 +242,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **Email**: your.email@domain.com
-- **LinkedIn**: [Your Name](https://linkedin.com/in/yourprofile)
+- **GitHub**: [Github](https://github.com/yaswanth-koppanathi-ai)
+- **Email**: yaswanthkoppanathi24@gmail.com
+- **LinkedIn**: [Linkedin](https://www.linkedin.com/in/yaswanth-koppanathi-ai/)
 
 ---
 
