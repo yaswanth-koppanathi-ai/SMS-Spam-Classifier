@@ -256,4 +256,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ![GitHub issues](https://img.shields.io/github/issues/yaswanth-koppanathi-ai/SMS-Spam-Classifier)
 ![GitHub stars](https://img.shields.io/github/stars/yaswanth-koppanathi-ai/SMS-Spam-Classifier)
 ![GitHub forks](https://img.shields.io/github/forks/yaswanth-koppanathi-ai/SMS-Spam-Classifier)
-![GitHub license](https://img.shields.io/github/yaswanth-koppanathi-ai/SMS-Spam-Classifier)
